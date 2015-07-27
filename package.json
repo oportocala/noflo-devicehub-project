@@ -1,0 +1,14 @@
+{
+  "name": "noflo-devicehub-project",
+  "version": "1.0.0",
+  "description": "Test project for components developed in sister repository: noflo-devicehub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad Goran",
+  "license": "MIT",
+  "dependencies": {
+    "noflo": "^0.5.13"
+  }
+}
